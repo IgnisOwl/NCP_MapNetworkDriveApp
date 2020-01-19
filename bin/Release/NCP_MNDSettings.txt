@@ -1,0 +1,1 @@
+net use q: \\nscollege-srv01.instr.cps.k12.il.us\student\<USERNAME> /user:instr.cps.k12.il.us\<USERNAME> <PASSWORD> & explorer q: & timeout 3

@@ -1,0 +1,5 @@
+MainIcon ICON "northside_mustang.ico"
+//aaaa ICON "wx/msw/std.ico"
+
+
+#include "wx/msw/wx.rc"
