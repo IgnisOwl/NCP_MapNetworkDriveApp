@@ -1,4 +1,3 @@
 
-GUI uses WxWidgets
-Build with CodeBlocks in windows(MinGW)
+GUI uses WxWidgets, Built with CodeBlocks in windows(MinGW)
 
