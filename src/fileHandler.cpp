@@ -33,5 +33,5 @@ void FileHandler::SetCommandSettingsFile(wxString settingsPath, wxString newSett
     }
 }
 
-FileHandler::FileHandler() {
+FileHandler::FileHandler() { //empty constructor
 }
